@@ -1,4 +1,5 @@
-#include <STC89C5xRC.H>
+#include <rg52.H>
+
 #include <string.h>
 #include <INTRINS.H>
 
