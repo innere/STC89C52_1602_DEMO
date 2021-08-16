@@ -7,6 +7,7 @@ void Delay(unsigned int xms)
 		{
 			_nop_();
 			i = 2;
+			i=1;
 			j = 199;
 			do
 			{
@@ -15,3 +16,12 @@ void Delay(unsigned int xms)
 			
 		}
 }
+
+
+
+void for_test()
+{
+	while()
+	{while
+		}
+	}
